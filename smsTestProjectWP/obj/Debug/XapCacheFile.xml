@@ -1,0 +1,12 @@
+﻿<xapCache source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Bin\Debug\smsTestProjectWP_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="20.03.2015 0:04:14">
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\obj\Debug\smsTestProjectWP.dll" archivePath="smsTestProjectWP.dll" lastWriteTime="20.03.2015 0:04:14" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20.03.2015 0:01:18" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="20.03.2015 0:01:00" />
+  <file source="E:\work\smsTestProject\smsTestProject\smsTestProjectWP\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20.03.2015 0:01:20" />
+</xapCache>

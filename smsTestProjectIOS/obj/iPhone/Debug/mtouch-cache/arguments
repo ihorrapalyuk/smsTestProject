@@ -1,0 +1,29 @@
+# Version: 8.8.0.2 (ccfcd59)
+# [first argument, ignore] # /Projects/Combine/smstestproj/smsTestProjectIOS/bin/iPhone/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.8.0.2/bin/mtouch-64 \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Projects/Combine/smstestproj/smsTestProjectIOS/obj/iPhone/Debug/mtouch-cache \
+	--executable \
+	smsTestProjectIOS \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Projects/Combine/smstestproj/smsTestProjectIOS/bin/iPhone/Debug/smsTestProjectIOS.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Projects/Combine/smstestproj/smsTestProjectIOS/bin/iPhone/Debug/smsTestProjectIOS.exe \

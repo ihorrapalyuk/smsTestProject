@@ -1,0 +1,3 @@
+/Projects/Combine/smstestproj/smsTestProjectIOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Projects/Combine/smstestproj/smsTestProjectIOS/obj/iPhone/Debug/mtouch-cache/Link/smsTestProjectIOS.exe
+/Projects/Combine/smstestproj/smsTestProjectIOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll

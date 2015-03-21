@@ -1,0 +1,14 @@
+E:\work\smsTestProject\smsTestProject\smsTestProject\bin\Debug\smsTestProject.dll
+E:\work\smsTestProject\smsTestProject\smsTestProject\bin\Debug\smsTestProject.pdb
+E:\work\smsTestProject\smsTestProject\smsTestProject\bin\Debug\smsTestProject.dll.mdb
+E:\work\smsTestProject\smsTestProject\smsTestProject\bin\Debug\smsTestProject.smsTestProject.apk
+E:\work\smsTestProject\smsTestProject\smsTestProject\bin\Debug\smsTestProject.smsTestProject-Signed.apk
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\smsTestProject.csprojResolveAssemblyReference.cache
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\smsTestProject.dll
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\smsTestProject.pdb
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\android\bin\smsTestProject.smsTestProject.apk
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\res\layout\main.xml
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\res\values\strings.xml
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\res\drawable\icon.png
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\R.cs.flag
+E:\work\smsTestProject\smsTestProject\smsTestProject\obj\Debug\uploadflags.txt

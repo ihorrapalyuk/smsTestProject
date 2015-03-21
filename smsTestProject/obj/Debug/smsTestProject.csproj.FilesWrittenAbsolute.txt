@@ -1,0 +1,13 @@
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Projects/Combine/smstestproj/smsTestProject/bin/Debug/smsTestProject.dll.mdb
+/Projects/Combine/smstestproj/smsTestProject/bin/Debug/smsTestProject.dll
+/Projects/Combine/smstestproj/smsTestProject/bin/Debug/smsTestProject.smsTestProject.apk
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/android/bin/smsTestProject.smsTestProject.apk
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/res/layout/main.xml
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/res/values/strings.xml
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/res/drawable/icon.png
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/R.cs.flag
+/Projects/Combine/smstestproj/smsTestProject/bin/Debug/smsTestProject.smsTestProject-Signed.apk
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/uploadflags.txt
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/smsTestProject.dll
+/Projects/Combine/smstestproj/smsTestProject/obj/Debug/smsTestProject.dll.mdb
